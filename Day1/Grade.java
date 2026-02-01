@@ -1,3 +1,4 @@
+package Day1;
 class Student {
     String name;
     float marks;

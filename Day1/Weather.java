@@ -1,3 +1,4 @@
+package Day1;
 class temp{
     String city;
     float temp;

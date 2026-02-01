@@ -1,3 +1,4 @@
+package Day1;
 class calc {
     double length;
     double width;

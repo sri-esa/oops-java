@@ -1,3 +1,4 @@
+package Day1;
 class multi_table{
     int num;
     void printTable(){

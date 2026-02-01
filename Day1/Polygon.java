@@ -1,3 +1,4 @@
+package Day1;
 class perimeter{
     String name;
     int sides;
