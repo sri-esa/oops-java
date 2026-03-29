@@ -1,10 +1,10 @@
 package Day5;
 
 interface Flyable {
-    void fly();
+    abstract void fly();
 }
 interface Swimmable {
-    void swim();
+    abstract void swim();
 }
 class Duck implements Flyable,Swimmable{
     public void fly() {

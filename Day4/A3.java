@@ -22,7 +22,7 @@ class B3 extends A3 {
         obj1.show();
         obj1.show(10);
 
-        A3 obj2 = new B3();
+        A3 obj2 = new A3();
         obj2.show();
     }
 }

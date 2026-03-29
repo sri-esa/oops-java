@@ -17,7 +17,7 @@ class B5 extends A5 {
     }
 
     void show() {
-        System.out.println("Parent x = " + super.x);
+        System.out.println("Parent x = " + x);
         System.out.println("Child y = " + y);
     }
 
